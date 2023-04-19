@@ -1,0 +1,15 @@
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\segundoProgramaCS\bin\Debug\net7.0\segundoProgramaCS.exe
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\segundoProgramaCS\bin\Debug\net7.0\segundoProgramaCS.deps.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\segundoProgramaCS\bin\Debug\net7.0\segundoProgramaCS.runtimeconfig.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\segundoProgramaCS\bin\Debug\net7.0\segundoProgramaCS.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\segundoProgramaCS\bin\Debug\net7.0\segundoProgramaCS.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\segundoProgramaCS\obj\Debug\net7.0\segundoProgramaCS.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\segundoProgramaCS\obj\Debug\net7.0\segundoProgramaCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\segundoProgramaCS\obj\Debug\net7.0\segundoProgramaCS.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\segundoProgramaCS\obj\Debug\net7.0\segundoProgramaCS.AssemblyInfo.cs
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\segundoProgramaCS\obj\Debug\net7.0\segundoProgramaCS.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\segundoProgramaCS\obj\Debug\net7.0\segundoProgramaCS.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\segundoProgramaCS\obj\Debug\net7.0\refint\segundoProgramaCS.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\segundoProgramaCS\obj\Debug\net7.0\segundoProgramaCS.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\segundoProgramaCS\obj\Debug\net7.0\segundoProgramaCS.genruntimeconfig.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\segundoProgramaCS\obj\Debug\net7.0\ref\segundoProgramaCS.dll
