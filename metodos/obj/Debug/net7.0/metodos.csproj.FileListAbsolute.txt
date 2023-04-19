@@ -1,0 +1,15 @@
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\metodos\bin\Debug\net7.0\metodos.exe
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\metodos\bin\Debug\net7.0\metodos.deps.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\metodos\bin\Debug\net7.0\metodos.runtimeconfig.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\metodos\bin\Debug\net7.0\metodos.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\metodos\bin\Debug\net7.0\metodos.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\metodos\obj\Debug\net7.0\metodos.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\metodos\obj\Debug\net7.0\metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\metodos\obj\Debug\net7.0\metodos.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\metodos\obj\Debug\net7.0\metodos.AssemblyInfo.cs
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\metodos\obj\Debug\net7.0\metodos.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\metodos\obj\Debug\net7.0\metodos.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\metodos\obj\Debug\net7.0\refint\metodos.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\metodos\obj\Debug\net7.0\metodos.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\metodos\obj\Debug\net7.0\metodos.genruntimeconfig.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana3\m02s03-aulas\metodos\obj\Debug\net7.0\ref\metodos.dll
